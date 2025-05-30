@@ -28,3 +28,10 @@ _"I find debugging more satisfying than solving a puzzle — every fixed bug is 
 Python               ████████████████████      Most Used
 Java                 ██████████████            Second Most
 C++                  ██████████                Third Most
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadHassanX/AhmadHassanX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadHassanX/AhmadHassanX/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmadHassanX/AhmadHassanX/output/github-snake.svg" />
+</picture>
+
